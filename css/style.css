@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+    padding: 0 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2, h3, h4{
+text-align: center;
+color: rgb(245, 172, 37);
+}
+
+h1{ 
+    font-size: 80px;
+    
+}
+
+.main ul{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.main li{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+ol, ul, .description{
+    width: 800px;
+    margin: 50px auto;
+}
+
+li{
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.recipe-picture{
+
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.description{
+    font-size: 20px;
+    font-style: italic;
+}
